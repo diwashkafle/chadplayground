@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e606da7a.css",
-    "main.js": "/static/js/main.6866682d.js",
-    "static/media/chad.mp3": "/static/media/chad.a792cb227ccbd9d1924e.mp3",
-    "static/media/chad.png": "/static/media/chad.62d8c04bfa419bfe5a6b.png",
-    "index.html": "/index.html",
-    "main.e606da7a.css.map": "/static/css/main.e606da7a.css.map",
-    "main.6866682d.js.map": "/static/js/main.6866682d.js.map"
+    "main.css": "/chadplayground/static/css/main.e606da7a.css",
+    "main.js": "/chadplayground/static/js/main.603dcdd6.js",
+    "static/media/chad.mp3": "/chadplayground/static/media/chad.a792cb227ccbd9d1924e.mp3",
+    "static/media/chad.png": "/chadplayground/static/media/chad.62d8c04bfa419bfe5a6b.png",
+    "index.html": "/chadplayground/index.html",
+    "main.e606da7a.css.map": "/chadplayground/static/css/main.e606da7a.css.map",
+    "main.603dcdd6.js.map": "/chadplayground/static/js/main.603dcdd6.js.map"
   },
   "entrypoints": [
     "static/css/main.e606da7a.css",
-    "static/js/main.6866682d.js"
+    "static/js/main.603dcdd6.js"
   ]
 }
